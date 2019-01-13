@@ -12,7 +12,7 @@ Be sure to use the cheat sheets in the "Additional Resources" section if you get
 
 ### Requirements
 
-From your root directory, create a folder called `my-favorite-things`; you'll use that folder to do the exercises below.
+From your home directory, create a folder called `my-favorite-things`; you'll use that folder to do the exercises below.
 
 - Organize your favorite books
 
